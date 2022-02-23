@@ -5,14 +5,14 @@ import image3 from './Images/JS-port.jpeg'
 export const ProjectsData = [
     {
         id:1,
-        link: "https://github.com/Hamdhan-Naheem/coffee_Shop",
+        link: "https://github.com/Hamdhan-Naheem/React-Portfolio",
         img: image1
 
     },
 
     {
         id:2,
-        link: "https://github.com/Hamdhan-Naheem/my_portfolio",
+        link: "https://github.com/Hamdhan-Naheem/coffee_Shop",
         img: image2
     },
 
